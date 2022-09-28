@@ -19,11 +19,25 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-1. As an existing user, I want to check the availability of a study space so I can study there
+1. As an existing user I want to check the current amount of people in a study space
 
-2. As an existing user, I want to search for study spaces by my location so I can find spaces conveniently near me
+2. As an existing user I want to be able to check which study spaces have accessories such as printers, charging spots, etc.
 
-3. As an existing user, I want to search for study spaces by category so I can find spaces more suited to my needs
+3. As an existing user, I want to rate study spots, so other users can know where the best ones are
+
+4. As an existing user, I want to check the availability of a study space so I can study there
+
+5. As an existing user, I want to search for study spaces by my location so I can find spaces conveniently near me
+
+6. As an existing user, I want to search for study spaces by category so I can find spaces more suited to my needs
+
+7. As a new user, I want to create an account so that I can keep track of my study spaces
+
+8. As an existing user, I want to search for study spaces by name so that I can find specific spaces that I may enjoy
+
+9. As an existing user, I want to add new spaces to the app so that I can keep track of how busy they are
+
+10. As an existing user, I want to update a space’s availability so that other users can be well informed
 
 ## Activity Diagrams
 
