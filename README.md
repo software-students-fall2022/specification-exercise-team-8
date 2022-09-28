@@ -5,12 +5,9 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Ankit Jain - [Link to github profile](https://github.com/ankit181818)
-Anvi Agarwal - [Link to github profile](https://github.com/agarwalanvi01)
+Ankit Jain - [Link to github profile](https://github.com/ankit181818) <br/>
+Anvi Agarwal - [Link to github profile](https://github.com/agarwalanvi01) <br/>
 Kevin Gong - [Link to github profile](https://github.com/kxg202)
-
-
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
 
 ## Stakeholders
 
