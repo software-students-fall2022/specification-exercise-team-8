@@ -17,7 +17,11 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As an existing user, I want to check the availability of a study space so I can study there
+
+2. As an existing user, I want to search for study spaces by my location so I can find spaces conveniently near me
+
+3. As an existing user, I want to search for study spaces by category so I can find spaces more suited to my needs
 
 ## Activity Diagrams
 
