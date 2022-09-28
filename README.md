@@ -11,11 +11,9 @@ Kevin Gong - [Link to github profile](https://github.com/kxg202)
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
-
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+Our app gives users the ability to discover new study spots, filter by keyword and category and check the current population of existing spaces, and leave reviews on the quality of the space.
 
 ## User Requirements
 
