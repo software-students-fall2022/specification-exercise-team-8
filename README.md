@@ -51,7 +51,7 @@ Our app gives users the ability to discover new study spots, filter by keyword a
 
 ## User Requirements
 
-1. As an existing user I want to check the current amount of people in a study space so that I know which spots are less crowded
+1. As an existing user I want to check the current amount of people in a study space so I know which spots are less crowded
 
 2. As an existing user I want to be able to check which study spaces have accessories such as printers, charging spots, etc so I can fulfill my need to use these accessories.
 
