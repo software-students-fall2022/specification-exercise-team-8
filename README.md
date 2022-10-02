@@ -39,4 +39,6 @@ Our app gives users the ability to discover new study spots, filter by keyword a
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+User Story: As an existing user I want to check the current amount of people in a study space
+
+
