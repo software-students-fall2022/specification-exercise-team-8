@@ -75,6 +75,10 @@ Our app gives users the ability to discover new study spots, filter by keyword a
 
 User Story: As an existing user I want to check the current amount of people in a study space
 
-![UML Diagram](Study_Spot_Availability.png)
+![Study Spot Availability UML Diagram](Study_Spot_Availability.png)
+
+User Story: As an existing user, I want to rate study spots, so other users can know where the best ones are
+
+![Study Spot Rating UML Diagram](Rate_Study_Spot.png)
 
 
