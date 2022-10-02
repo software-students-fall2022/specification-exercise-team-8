@@ -51,13 +51,13 @@ Our app gives users the ability to discover new study spots, filter by keyword a
 
 ## User Requirements
 
-1. As an existing user I want to check the current amount of people in a study space
+1. As an existing user I want to check the current amount of people in a study space so that I know which spots are less crowded
 
-2. As an existing user I want to be able to check which study spaces have accessories such as printers, charging spots, etc.
+2. As an existing user I want to be able to check which study spaces have accessories such as printers, charging spots, etc so I can fulfill my need to use these accessories.
 
 3. As an existing user, I want to rate study spots, so other users can know where the best ones are
 
-4. As an existing user, I want to check the availability of a study space so I can study there
+4. As an existing user, I want to check the availability (open, closed for maintenance, etc) of a study space so I can study there
 
 5. As an existing user, I want to search for study spaces by my location so I can find spaces conveniently near me
 
@@ -80,5 +80,3 @@ User Story: As an existing user I want to check the current amount of people in 
 User Story: As an existing user, I want to rate study spots, so other users can know where the best ones are
 
 ![Study Spot Rating UML Diagram](Rate_Study_Spot.png)
-
-
