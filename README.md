@@ -47,7 +47,7 @@ I want to know the location in relation to me, how many seats there are total an
 
 ## Product Vision Statement
 
-Our app gives users the ability to discover new study spots, filter by keyword and category and check the current population of existing spaces, and leave reviews on the quality of the space.
+Our app gives users the ability to discover new study spots, filter them by keyword and category, check the current population of existing spaces, and leave reviews on the quality of the space.
 
 ## User Requirements
 
