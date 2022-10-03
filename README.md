@@ -80,3 +80,7 @@ User Story: As an existing user I want to check the current amount of people in 
 User Story: As an existing user, I want to rate study spots, so other users can know where the best ones are
 
 ![Study Spot Rating UML Diagram](Rate_Study_Spot.png)
+
+## Clickable Prototype
+
+https://www.figma.com/proto/gpkmxxlaxH6RAiauyfEHq3/SWE-Project-1?node-id=2%3A4&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A4&show-proto-sidebar=1
